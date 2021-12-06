@@ -1,3 +1,5 @@
+![MasterHead](Blue Gradient Modern Corporate Computer and Technology LinkedIn Banner.png)
+
 <h1 align="center">Hi 👋, I'm Venkatesh E</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
