@@ -1,4 +1,4 @@
-![MasterHead]([https://github.com/venkatesh-jacke/venkatesh-jacke/blob/main/Blue%20Gradient%20Modern%20Corporate%20Computer%20and%20Technology%20LinkedIn%20Banner.png](https://github.com/venkatesh-jacke/venkatesh-jacke/blob/main/banner.jpg))
+![MasterHead](https://github.com/venkatesh-jacke/venkatesh-jacke/blob/main/Blue%20Gradient%20Modern%20Corporate%20Computer%20and%20Technology%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Venkatesh E</h1>
 <h3 align="center">A passionate Software Developer</h3>
