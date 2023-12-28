@@ -1,5 +1,4 @@
-![MasterHead]banner-2.png)
-
+![MasterHead](https://github.com/venkatesh-jacke/venkatesh-jacke/blob/main/banner-2.png)
 <h1 align="center">Hi 👋, I'm Venkatesh E</h1>
 <h3 align="center">A passionate Software Developer-II</h3>
 
