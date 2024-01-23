@@ -22,9 +22,13 @@ Coding has become a part of my daily routine ever since I learned what coding is
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=venkatesh-jacke&show_icons=true&theme=radical)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=venkatesh-jacke&theme=react-dark)
-![LeetCode Stats](https://leetcode-card.vercel.app/api?username=venkateshjacke)
-![LeetCode Graph](https://leetcode-card.vercel.app/api?username=venkateshjacke&type=history)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh-jacke&layout=compact&theme=dark)](https://github.com/dangiashish/github-readme-stats)
+
+
+<a href="https://github.com/DangiAshish/">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venkatesh-jacke&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2200AE&text_color=D3D3D3&bg_color=0,000000,130C40" width="380"/>
+</a>
 
 
 
