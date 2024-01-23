@@ -17,7 +17,6 @@ Coding has become a part of my daily routine ever since I learned what coding is
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/venkateshjacke/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/beingashishdangi)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+918807161938)
-[![Dev.to](https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/ashishdangi)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ashishdangi)
 
 
@@ -26,7 +25,7 @@ Coding has become a part of my daily routine ever since I learned what coding is
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh-jacke&layout=compact&theme=dark)](https://github.com/dangiashish/github-readme-stats)
 
 
-<a href="https://github.com/DangiAshish/">
+<a href="https://github.com/venkatesh-jacke/">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venkatesh-jacke&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2200AE&text_color=D3D3D3&bg_color=0,000000,130C40" width="380"/>
 </a>
 
