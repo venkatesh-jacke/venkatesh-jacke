@@ -25,9 +25,8 @@ Coding has become a part of my daily routine ever since I learned what coding is
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh-jacke&layout=compact&theme=dark)](https://github.com/dangiashish/github-readme-stats)
 
 
-<a href="https://github.com/venkatesh-jacke/">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venkatesh-jacke&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2200AE&text_color=D3D3D3&bg_color=0,000000,130C40" width="380"/>
-</a>
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/venkateshjacke/)
+
 
 
 
