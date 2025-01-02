@@ -12,7 +12,8 @@ Coding has become a part of my daily routine ever since I learned what it is. I 
 ![ANDROID](https://img.shields.io/badge/android-%23ffffff.svg?style=for-the-badge&logo=android&logoColor=%a4c639)
 ![Java](https://img.shields.io/badge/java-%23ffffff.svg?style=for-the-badge&logo=Java)
 ![Kotlin](https://img.shields.io/badge/kotlin-%23ffffff.svg?style=for-the-badge&logo=kotlin&logoColor=AE00FF)
-![Firebase](https://img.shields.io/badge/firebase-%23ffffff.svg?style=for-the-badge&logo=firebase)
+![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
+
 
 ---
 
