@@ -29,6 +29,7 @@ Coding has become a part of my daily routine ever since I learned what coding is
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/venkateshjacke)
 
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/venkateshjacke/)
 
 
 
