@@ -1,14 +1,37 @@
 ![MasterHead](https://github.com/venkatesh-jacke/venkatesh-jacke/blob/main/banner-2.png)
 <h3>A passionate self-taught Software Developer from Chennai, India 👨‍💻</h3>
 
+---
+
 ## 💫 About Me:
-Coding has become a part of my daily routine ever since I learned what coding is. I am a mobile application developer by profession who is currently working on android application development. I look forward to working in other areas related to mobile application development in future.
+Coding has become a part of my daily routine ever since I learned what it is. I am a mobile application developer by profession, currently working on Android application development. I look forward to working in other areas related to mobile application development.
+
+---
 
 ## 💻 Tech Stack:
 ![ANDROID](https://img.shields.io/badge/android-%23ffffff.svg?style=for-the-badge&logo=android&logoColor=%a4c639)
 ![Java](https://img.shields.io/badge/java-%23ffffff.svg?style=for-the-badge&logo=Java)
 ![Kotlin](https://img.shields.io/badge/kotlin-%23ffffff.svg?style=for-the-badge&logo=kotlin&logoColor=AE00FF)
 ![Firebase](https://img.shields.io/badge/firebase-%23ffffff.svg?style=for-the-badge&logo=firebase)
+
+---
+
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=venkatesh-jacke&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh-jacke&layout=compact&theme=dark)](https://github.com/dangiashish/github-readme-stats)
+
+---
+
+## 🏆 Competitive Programming Stats:
+### LeetCode:
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/venkateshjacke/)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/venkateshjacke)
+
+### GeeksforGeeks:
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/venkateshjacke/)
+
+---
 
 ## 🌐 Connect with Me:
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ashishdangi96?tab=topactivity)
@@ -19,19 +42,6 @@ Coding has become a part of my daily routine ever since I learned what coding is
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+918807161938)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ashishdangi)
 
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=venkatesh-jacke&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh-jacke&layout=compact&theme=dark)](https://github.com/dangiashish/github-readme-stats)
-
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/venkateshjacke/)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/venkateshjacke)
-
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/venkateshjacke/)
-
-
-
-## Thank You.. :)
-
+## Thank You! 😊
